@@ -1,0 +1,7 @@
+C:\Users\enzo.glanzi\source\repos\brasileirao completo 19 11\brasileirao completo 19 11\obj\Debug\brasileirao completo 19 11.csproj.AssemblyReference.cache
+C:\Users\enzo.glanzi\source\repos\brasileirao completo 19 11\brasileirao completo 19 11\obj\Debug\brasileirao completo 19 11.csproj.CoreCompileInputs.cache
+C:\Users\enzo.glanzi\source\repos\brasileirao completo 19 11\brasileirao completo 19 11\bin\Debug\brasileirao completo 19 11.exe.config
+C:\Users\enzo.glanzi\source\repos\brasileirao completo 19 11\brasileirao completo 19 11\bin\Debug\brasileirao completo 19 11.exe
+C:\Users\enzo.glanzi\source\repos\brasileirao completo 19 11\brasileirao completo 19 11\bin\Debug\brasileirao completo 19 11.pdb
+C:\Users\enzo.glanzi\source\repos\brasileirao completo 19 11\brasileirao completo 19 11\obj\Debug\brasileirao completo 19 11.exe
+C:\Users\enzo.glanzi\source\repos\brasileirao completo 19 11\brasileirao completo 19 11\obj\Debug\brasileirao completo 19 11.pdb

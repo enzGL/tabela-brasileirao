@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enzo.glanzi\\source\\repos\\brasileiraoalt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFA58C6-740C-46A6-801B-3776AD824F7D}|brasileiraoalt\\brasileiraoalt.csproj|c:\\users\\enzo.glanzi\\source\\repos\\brasileiraoalt\\brasileiraoalt\\brasileiroalt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFA58C6-740C-46A6-801B-3776AD824F7D}|brasileiraoalt\\brasileiraoalt.csproj|solutionrelative:brasileiraoalt\\brasileiroalt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\enzo.glanzi\\source\\repos\\brasileirao completo 19 11\\brasileirao completo 19 11\\Brasileirao completo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Brasileirao completo.cs",
+              "DocumentMoniker": "C:\\Users\\enzo.glanzi\\source\\repos\\brasileirao completo 19 11\\brasileirao completo 19 11\\Brasileirao completo.cs",
+              "RelativeDocumentMoniker": "..\\brasileirao completo 19 11\\brasileirao completo 19 11\\Brasileirao completo.cs",
+              "ToolTip": "C:\\Users\\enzo.glanzi\\source\\repos\\brasileirao completo 19 11\\brasileirao completo 19 11\\Brasileirao completo.cs",
+              "RelativeToolTip": "..\\brasileirao completo 19 11\\brasileirao completo 19 11\\Brasileirao completo.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwD8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:36:21.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "brasileiroAlt.cs",
+              "DocumentMoniker": "C:\\Users\\enzo.glanzi\\source\\repos\\brasileiraoalt\\brasileiraoalt\\brasileiroAlt.cs",
+              "RelativeDocumentMoniker": "brasileiraoalt\\brasileiroAlt.cs",
+              "ToolTip": "C:\\Users\\enzo.glanzi\\source\\repos\\brasileiraoalt\\brasileiraoalt\\brasileiroAlt.cs",
+              "RelativeToolTip": "brasileiraoalt\\brasileiroAlt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:36:18.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

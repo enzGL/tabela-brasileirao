@@ -1,0 +1,7 @@
+C:\Users\enzo.glanzi\source\repos\brasileiraoalt\brasileiraoalt\bin\Debug\brasileiraoalt.exe.config
+C:\Users\enzo.glanzi\source\repos\brasileiraoalt\brasileiraoalt\bin\Debug\brasileiraoalt.exe
+C:\Users\enzo.glanzi\source\repos\brasileiraoalt\brasileiraoalt\bin\Debug\brasileiraoalt.pdb
+C:\Users\enzo.glanzi\source\repos\brasileiraoalt\brasileiraoalt\obj\Debug\brasileiraoalt.csproj.AssemblyReference.cache
+C:\Users\enzo.glanzi\source\repos\brasileiraoalt\brasileiraoalt\obj\Debug\brasileiraoalt.csproj.CoreCompileInputs.cache
+C:\Users\enzo.glanzi\source\repos\brasileiraoalt\brasileiraoalt\obj\Debug\brasileiraoalt.exe
+C:\Users\enzo.glanzi\source\repos\brasileiraoalt\brasileiraoalt\obj\Debug\brasileiraoalt.pdb
